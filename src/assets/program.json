@@ -1,0 +1,86 @@
+[
+  {
+    "title": "concentración",
+    "description": "Pedir permisos y cancelación de la excursión, revisar materiales y hacer un conteo de las personas antes del viaje.",
+    "managers": ["todos"],
+    "supplies": "permisos",
+    "endTime": "08:30"
+  },
+  {
+    "title": "partida",
+    "description": "-",
+    "managers": ["todos"],
+    "supplies": "",
+    "endTime": "09:15"
+  },
+  {
+    "title": "arribo y armado de carpas",
+    "description": "-",
+    "managers": ["Joel"],
+    "supplies": "",
+    "endTime": "09:35"
+  },
+  {
+    "title": "dinámicas masivas",
+    "description": "Canciones: Todo el Movimiento y El Pollito. Juego de la evolución (Alex), Calles y avenidas (Steff), Hospital revuelto (Joel), Sígueme (Pablo), Ataque al fortín con pañoletas (Steff)",
+    "managers": ["Toño"],
+    "supplies": "",
+    "endTime": "10:15"
+  },
+  {
+    "title": "armado de equipos (8 equipos de 5)",
+    "description": "Elaboración de presentaciones",
+    "managers": ["Alex"],
+    "supplies": "",
+    "endTime": "10:25"
+  },
+  {
+    "title": "Juegos por equipos: 25min cada uno",
+    "description": "Claves (Steff), Cabuyería (Toño, Joel), PPAA: Inmovilizaciones o Transporte de heridos (Alex, Julio), Filtros de agua caseros (Pablo). Utilizar el sistema de puntuación",
+    "managers": ["todos"],
+    "supplies": "hojas de papel y lápices; cuerdas, palos y botellas; cartón y bolillos; botellas, carbón, algodón.",
+    "endTime": "12:15"
+  },
+  {
+    "title": "almuerzo",
+    "description": "-",
+    "managers": ["todos"],
+    "supplies": "Ración seca",
+    "endTime": "13:15"
+  },
+  {
+    "title": "caminata",
+    "description": "-",
+    "managers": ["Steff"],
+    "supplies": "",
+    "endTime": "15:15"
+  },
+  {
+    "title": "fogata y premiación",
+    "description": "-",
+    "managers": ["Julio", "Pablo"],
+    "supplies": "Leña, gasolina y premios.",
+    "endTime": "16:15"
+  },
+  {
+    "title": "dinámicas de ronda",
+    "description": "-",
+    "managers": ["Alex", "Toño"],
+    "supplies": "",
+    "endTime": "16:30"
+  },
+  {
+    "title": "retorno",
+    "description": "-",
+    "managers": ["todos"],
+    "supplies": "",
+    "endTime": "17:15"
+  },
+  {
+    "title": "desconcentración",
+    "description": "-",
+    "managers": ["todos"],
+    "supplies": "",
+    "endTime": "17:30"
+  }
+]
